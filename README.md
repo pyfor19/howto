@@ -1,1 +1,1 @@
-# howto
+# How to Python and how to Django
