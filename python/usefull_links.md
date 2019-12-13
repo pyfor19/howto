@@ -8,6 +8,10 @@
 
 ## Basic
 
+### DateTime
+
+[10 things you need to know about Date and Time in Python with datetime, pytz, dateutil & timedelta](https://medium.com/@eleroy/10-things-you-need-to-know-about-date-and-time-in-python-with-datetime-pytz-dateutil-timedelta-309bfbafb3f7)
+
 ### Try, Except
 
 - https://stackoverflow.com/questions/1483429/how-to-print-an-exception-in-python
