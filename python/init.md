@@ -2,6 +2,13 @@
 
 Install [Python](https://www.python.org/)
 
+## Cheat Sheets
+
+- [PythonCheatSheet.org](www.pythoncheatsheet.org)
+- [PythonSheets.com](www.pythonsheets.com)
+- [Python Crash Course](https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/)
+
+
 ## Welcome to PIP
 
 [Python Packages Index](https://pypi.org/)
