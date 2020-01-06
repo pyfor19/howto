@@ -66,3 +66,8 @@ deactivate
 pip freeze > requirements.txt
 pip install -r requirements.txt
 ```
+
+## Visual Code
+
+https://code.visualstudio.com/docs/python/environments
+https://code.visualstudio.com/docs/editor/variables-reference
