@@ -20,10 +20,19 @@
 - [Référence des champs de modèle](https://docs.djangoproject.com/fr/3.0/ref/models/fields/#module-django.db.models.fields)
 
 
+## Admin
+
+-[Le site d’administration de Django](https://docs.djangoproject.com/fr/3.0/ref/contrib/admin/)
+
 ## Urls
 
 -[Distribution des URL](https://docs.djangoproject.com/fr/3.0/topics/http/urls/)
 
+
+## QuerySet / Requêtes
+
+- [Création de requêtes](https://docs.djangoproject.com/fr/3.0/topics/db/queries/)
+- [référence de l’API QuerySet](https://docs.djangoproject.com/fr/3.0/ref/models/querysets/)
 
 ## Vues génériques 
 
