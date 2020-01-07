@@ -24,6 +24,11 @@
 
 -[Le site d’administration de Django](https://docs.djangoproject.com/fr/3.0/ref/contrib/admin/)
 
+
+## Fichiers statiques et média
+
+- [Gestion des fichiers statiques (par ex. images, JavaScript, CSS)](https://docs.djangoproject.com/fr/3.0/howto/static-files/)
+
 ## Urls
 
 -[Distribution des URL](https://docs.djangoproject.com/fr/3.0/topics/http/urls/)
